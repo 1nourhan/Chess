@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611596923 source:c:\users\noura\desktop\chess project\final\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
